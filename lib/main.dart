@@ -6,7 +6,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import 'global/global.dart';
-import 'home_screen.dart';
+
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
