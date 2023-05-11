@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "585844502940",
+    "project_id": "deliverybybike-83c14",
+    "storage_bucket": "deliverybybike-83c14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585844502940:android:0c647062391d9e4a01d859",
+        "android_client_info": {
+          "package_name": "com.example.delivery_by_bike_riders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585844502940-j22osfhl320freg0v997hf8rd51p3lik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKVvUBKOsRAsl2gvrfWlu3miqJoQqDuF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585844502940-j22osfhl320freg0v997hf8rd51p3lik.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "585844502940-ujpmnlt8ho4c4gn5ginf605lfe8rqesc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.deliverybybike"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585844502940:android:1476ff6b61cbecf201d859",
+        "android_client_info": {
+          "package_name": "com.example.delivery_by_bike_sellers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585844502940-j22osfhl320freg0v997hf8rd51p3lik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKVvUBKOsRAsl2gvrfWlu3miqJoQqDuF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585844502940-j22osfhl320freg0v997hf8rd51p3lik.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "585844502940-ujpmnlt8ho4c4gn5ginf605lfe8rqesc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.deliverybybike"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585844502940:android:db4ebf8be2384bc001d859",
+        "android_client_info": {
+          "package_name": "com.example.delivery_by_bike_users"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585844502940-j22osfhl320freg0v997hf8rd51p3lik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKVvUBKOsRAsl2gvrfWlu3miqJoQqDuF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585844502940-j22osfhl320freg0v997hf8rd51p3lik.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "585844502940-ujpmnlt8ho4c4gn5ginf605lfe8rqesc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.deliverybybike"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585844502940:android:b08a73bf2e8170a601d859",
+        "android_client_info": {
+          "package_name": "com.example.deliverybybike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585844502940-j22osfhl320freg0v997hf8rd51p3lik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKVvUBKOsRAsl2gvrfWlu3miqJoQqDuF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585844502940-j22osfhl320freg0v997hf8rd51p3lik.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "585844502940-ujpmnlt8ho4c4gn5ginf605lfe8rqesc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.deliverybybike"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

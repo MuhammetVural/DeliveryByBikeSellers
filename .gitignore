@@ -9,9 +9,9 @@
 .history
 .svn/
 migrate_working_dir/
-**/android/app/google-services.json
-**/android/app/src/main/AndroidManifest.xml
-**/android/app/src/
+#**/android/app/google-services.json
+#**/android/app/src/main/AndroidManifest.xml
+#**/android/app/src/
 # IntelliJ related
 *.iml
 *.ipr
